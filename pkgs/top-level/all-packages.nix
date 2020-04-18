@@ -26444,4 +26444,6 @@ in
 
   jitsi-meet-electron = callPackage ../applications/networking/instant-messengers/jitsi-meet-electron { };
 
+  mailspring = callPackage ../applications/networking/mailreaders/mailspring {};
+
 }
