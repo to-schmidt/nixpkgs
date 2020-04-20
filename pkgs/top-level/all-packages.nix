@@ -26446,4 +26446,6 @@ in
 
   mailspring = callPackage ../applications/networking/mailreaders/mailspring {};
 
+  keeweb = callPackage ../applications/misc/keeweb {};
+
 }
